@@ -1,28 +1,19 @@
-cd /Users/gijso/Downloads/
-addpath /Users/gijso/Downloads/VCMatlab/
-addpath /Users/gijso/Downloads/VCMatlab/Photography/
-addpath /Users/gijso/Downloads/VCMatlab/Complexity
-addpath /Users/gijso/Downloads/VCMatlab/SFFCMCode/SFFCMCode/
-addpath /Users/gijso/Downloads/VCMatlab/Alternative_Complexity/
-addpath /Users/gijso/Downloads/VCMatlab/CESC
 
-images = dir('Instagram/NewData/*.jpg');
+addpath ~/VCMatlab/
+addpath ~/VCMatlab/Photography/
+addpath ~/VCMatlab/Complexity
+addpath ~/VCMatlab/SFFCMCode/SFFCMCode/
+addpath ~/VCMatlab/Alternative_Complexity/
 
 
+images = dir('path/to/jpg/files');
 
-% neural net to extract objects 
-net = vgg16('Weights','imagenet');
-layer = 'prob';
-imds = imageDatastore('/Users/gijso/Downloads/Instagram/NewData/');
-inputSize = net.Layers(1).InputSize;
-augimds = augmentedImageDatastore(inputSize(1:2),imds);
-objects = activations(net,augimds,layer,'OutputAs','rows');
 
 
 
 N = size(images,1);
 
-diag_domv=zeros(N,1);
+diag_domv=zeros(N,1); 
 rotv=zeros(N,1);
 vphdv=zeros(N,1);
 hphdv=zeros(N,1);
