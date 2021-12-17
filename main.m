@@ -2,7 +2,9 @@
 addpath ~/VCMatlab/
 addpath ~/VCMatlab/Photography/
 addpath ~/VCMatlab/Complexity
-addpath ~/VCMatlab/SFFCMCode/SFFCMCode/
+addpath ~/VCMatlab/Helper/SFFCMCode/SFFCMCode/
+addpath ~/VCMatlab/Helper/June01/ %
+addpath ~/VCMatlab/Helper/SaliencyToolbox/
 addpath ~/VCMatlab/Alternative_Complexity/
 
 
