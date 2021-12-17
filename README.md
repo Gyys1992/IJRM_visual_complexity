@@ -1,4 +1,4 @@
-# IJRM_visual_complexity
+# Simplicity is not Key: Understanding Firm-Generated Social Media Images and Consumer Liking
 This repository includes the code for extracting the image features used in the paper: "Simplicity is not Key: Understanding Firm-Generated Social Media Images and Consumer Liking
 
 ## Main Script 
