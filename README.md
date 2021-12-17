@@ -14,7 +14,7 @@ The sources that were used either by using code directly or through inspiration 
 for cultural and social campaigns, in: Archiving Conference, Society for
 Imaging Science and Technology. pp. 213–218.
 
-- Comaniciu, D., Meer, P., 2002. Mean shift: A robust approach toward feature space analysis. IEEE Transactions on pattern analysis and machine
+- Comaniciu, D., Meer, P., 2002. Mean shift: A robust approach toward feature space analysis. IEEE Transactions on pattern analysis and machine
 intelligence 24, 603–619.
 
 - Corchs, S.E., Ciocca, G., Bricolo, E., Gasparini, F., 2016. Predicting complexity perception of real world images. PloS one 11, e0157986.
