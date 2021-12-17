@@ -8,4 +8,9 @@ http://dspace.mit.edu/handle/1721.1/37593
 
 2. SaliencyToolbox: https://www.saliencytoolbox.net/
 
-3. 
+3. SSFCM code https://github.com/jiaxhsust/Superpixel-based-Fast-Fuzzy-C-Means-Clustering-for-Color-Image-Segmentation
+
+"Superpixel-based-Fast-Fuzzy-C-Means-Clustering-for-Color-Image-Segmentation
+The authors propose a superpixel-based fast FCM (SFFCM) for color image segmentation. The proposed algorithm is able to achieve color image segmentation with a very low computational cost, yet achieve a high segmentation precision.
+
+This paper has been accepted for publication in the IEEE Transactions on Fuzzy Systems."
