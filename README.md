@@ -1,8 +1,10 @@
 # IJRM_visual_complexity
 This repository includes the code for extracting the image features used in the paper: "Simplicity is not Key: Understanding Firm-Generated Social Media Images and Consumer Liking
 
+## Main Script 
 main.m is the script used to extract all visual complexity measures, photography control measures from Zhang et al. 2020, and alternative complexity measures from various sources. 
 
+## Helper Functions and Sources utilized
 The HELPER folder has various resources that were either collected from their respective websites and github pages. For the design complexity - object arrangement extraction to work, the instruction provided here ( http://dspace.mit.edu/handle/1721.1/37593 ) have to be followed. The files are in the Helper/June01/ directory, but might require compiling once downloaded. 
 
 The sources that were used either by using code directly or through inspiration are the following (see paper for more details):
