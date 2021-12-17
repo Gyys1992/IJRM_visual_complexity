@@ -10,25 +10,25 @@ The HELPER folder has various resources that were either collected from their re
 The sources that were used either by using code directly or through inspiration are the following (see paper for more details):
 
 
-Artese, M.T., Ciocca, G., Gagliardi, I., 2014. Good 50x70 project: a portal
+- Artese, M.T., Ciocca, G., Gagliardi, I., 2014. Good 50x70 project: a portal
 for cultural and social campaigns, in: Archiving Conference, Society for
 Imaging Science and Technology. pp. 213–218.
 
-Comaniciu, D., Meer, P., 2002. Mean shift: A robust approach toward feature space analysis. IEEE Transactions on pattern analysis and machine
+- Comaniciu, D., Meer, P., 2002. Mean shift: A robust approach toward feature space analysis. IEEE Transactions on pattern analysis and machine
 intelligence 24, 603–619.
 
-Corchs, S.E., Ciocca, G., Bricolo, E., Gasparini, F., 2016. Predicting complexity perception of real world images. PloS one 11, e0157986.
+- Corchs, S.E., Ciocca, G., Bricolo, E., Gasparini, F., 2016. Predicting complexity perception of real world images. PloS one 11, e0157986.
 
-Hasler, D., Suesstrunk, S.E., 2003. Measuring colorfulness in natural images,
+- Hasler, D., Suesstrunk, S.E., 2003. Measuring colorfulness in natural images,
 in: Human vision and electronic imaging VIII, International Society for
 Optics and Photonics. pp. 87–95.
 
-T. Lei, X. Jia, Y. Zhang, S. Liu, H. Meng and A. K. Nandi, "Superpixel-Based Fast Fuzzy C-Means Clustering for Color Image Segmentation," in IEEE Transactions on Fuzzy Systems, vol. 27, no. 9, pp. 1753-1766, Sept. 2019, doi: 10.1109/TFUZZ.2018.2889018.
+- T. Lei, X. Jia, Y. Zhang, S. Liu, H. Meng and A. K. Nandi, "Superpixel-Based Fast Fuzzy C-Means Clustering for Color Image Segmentation," in IEEE Transactions on Fuzzy Systems, vol. 27, no. 9, pp. 1753-1766, Sept. 2019, doi: 10.1109/TFUZZ.2018.2889018.
 
-Oliva, A., 2005. Gist of the scene, in: Neurobiology of attention. Elsevier,
+- Oliva, A., 2005. Gist of the scene, in: Neurobiology of attention. Elsevier,
 pp. 251–256.
 
-Zhang, S., Lee, D., Singh, P.V., Srinivasan, K., 2017. How much is an imageworth? airbnb property demand estimation leveraging large scale imageanalytics. Airbnb Property Demand Estimation Leveraging Large Scale Image Analytics (May 25, 2017) .
+- Zhang, S., Lee, D., Singh, P.V., Srinivasan, K., 2017. How much is an imageworth? airbnb property demand estimation leveraging large scale imageanalytics. Airbnb Property Demand Estimation Leveraging Large Scale Image Analytics (May 25, 2017) .
 
-https://www.saliencytoolbox.net/
+- Saliceny ToolBox: https://www.saliencytoolbox.net/
 
