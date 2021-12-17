@@ -19,7 +19,8 @@ ff = freqfactor(img); % feature complexity control: frequency factor
 [ah av irv] =arrangement(img); % asymmetry horizontal, asymmetry vertical, irregularity of object arrangement
 [~, num_reg]=color_harmony(img,10); % design complexity control: number of regions
 
-% the number of objects can be calculated using the ipython notebook or using pre-trained yolov4
+% the number of objects can be calculated using the ipython notebook or using pre-trained yolov4 as illustrated here: https://github.com/matlab-deep-learning/pretrained-yolo-v4
+% following the detecting object illustration and then count the number of objects above the score (confidence) threshold 0.3.
 
 %% Alternative Complexity 
 % Corchs et al. (2014) complexity measures, m6 is equal to edge density, m7 is jpeg file size
