@@ -1,7 +1,7 @@
 
 addpath ~/VCMatlab/
 addpath ~/VCMatlab/Photography/
-addpath ~/VCMatlab/Complexity
+addpath ~/VCMatlab/Complexity/
 addpath ~/VCMatlab/Helper/SFFCMCode/SFFCMCode/
 addpath ~/VCMatlab/Helper/June01/ %
 addpath ~/VCMatlab/Helper/SaliencyToolbox/
@@ -50,7 +50,7 @@ sdv = zeros(N,1);
 
 for k = 1:N
     
-    im = strcat('Instagram/NewData/',images(k).name);
+    im = strcat('path/to/images/',images(k).name);
     img = imread(im);
 
 %% composition
