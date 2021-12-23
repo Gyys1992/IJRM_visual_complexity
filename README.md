@@ -2,7 +2,7 @@
 This repository includes the code for extracting the image features used in the paper: "Simplicity is not Key: Understanding Firm-Generated Social Media Images and Consumer Liking.
 
 ## Main Script 
-main.m is the script used to extract all visual complexity measures, photography control measures from Zhang et al. 2017 and Zhang and Luo 2018, and alternative complexity measures from various sources. 
+main.m is the script used to extract all visual complexity measures, photography control measures from Zhang et al. (2017) and Zhang and Luo (2018), and alternative complexity measures from various sources. 
 
 For the number of object variables we utilized Mask R-CNN implemented in Python. See the ipython notebook. Similar results can be obtained in Matlab using a pre-trained YoloV4 coco object detection that came out more recently. 
 
