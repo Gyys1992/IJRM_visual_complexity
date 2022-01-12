@@ -32,7 +32,7 @@ pp. 251–256.
 
 - Zhang, S., Lee, D., Singh, P.V., Srinivasan, K., 2017. How much is an imageworth? airbnb property demand estimation leveraging large scale imageanalytics. Airbnb Property Demand Estimation Leveraging Large Scale Image Analytics (May 25, 2017) .
 
-Zhang, M., Luo, L., 2018. Can user generated content predict restaurantsurvival: deep learning of yelp photos and reviews. Available at SSRN3108288
+- Zhang, M., Luo, L., 2018. Can user generated content predict restaurantsurvival: deep learning of yelp photos and reviews. Available at SSRN3108288
 
 - Saliceny ToolBox: https://www.saliencytoolbox.net/
 
