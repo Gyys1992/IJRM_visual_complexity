@@ -21,7 +21,7 @@ ff = freqfactor(img); % feature complexity control: frequency factor
 
 name =  'darknet53-coco';
 detector = yolov3ObjectDetector(name);
-oc = objects(img)
+oc = object(img)
 
 %% Alternative Complexity 
 % Corchs et al. (2014) complexity measures, m6 is equal to edge density, m7 is jpeg file size
