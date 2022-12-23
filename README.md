@@ -4,7 +4,6 @@ This repository includes the code for extracting the image features used in the 
 ## Main Script 
 main.m is the script used to extract all visual complexity measures, photography control measures from Zhang et al. (2017) and Zhang and Luo (2018), and alternative complexity measures from various sources. 
 
-For the number of object variables we utilized Mask R-CNN implemented in Python. See the ipython notebook. Similar results can be obtained in Matlab using a pre-trained YoloV4 coco object detection that came out more recently. 
 
 ## Helper Functions and Sources utilized
 The HELPER folder has various resources that were either collected from their respective websites and github pages. For the design complexity - object arrangement extraction to work, the instructions provided here ( http://dspace.mit.edu/handle/1721.1/37593 ) have to be followed. The files are in the Helper/June01/ directory, but might require compiling once downloaded. 
